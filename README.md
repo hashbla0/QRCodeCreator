@@ -1,3 +1,3 @@
 # QRCodeCreator
-Kleines Script zur Erstellung von QR-Codes
+Kleines Python-Skript zur Erstellung von QR-Codes; 
 Farben sind aktuell noch hardcoded.
